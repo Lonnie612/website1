@@ -12,6 +12,7 @@ body {
 .loading-text {
     font-size: 50px;
     color: pink;
+    opacity: 1;
 }
 
 
@@ -24,4 +25,5 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    filter: blur(3 0px);
 }
