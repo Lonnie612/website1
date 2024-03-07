@@ -25,5 +25,5 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    filter: blur(3 0px);
+    filter: blur(30px);
 }
